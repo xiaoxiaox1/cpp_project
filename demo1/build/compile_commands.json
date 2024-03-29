@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/code/c++_project/demo1/build",
+  "command": "D:/software/mingw64/bin/g++.exe   -g -o CMakeFiles/demo1.dir/src/MyClass.cpp.obj -c D:/code/c++_project/demo1/src/MyClass.cpp",
+  "file": "D:/code/c++_project/demo1/src/MyClass.cpp",
+  "output": "CMakeFiles/demo1.dir/src/MyClass.cpp.obj"
+},
+{
+  "directory": "D:/code/c++_project/demo1/build",
+  "command": "D:/software/mingw64/bin/g++.exe   -g -o CMakeFiles/demo1.dir/src/test01.cpp.obj -c D:/code/c++_project/demo1/src/test01.cpp",
+  "file": "D:/code/c++_project/demo1/src/test01.cpp",
+  "output": "CMakeFiles/demo1.dir/src/test01.cpp.obj"
+},
+{
+  "directory": "D:/code/c++_project/demo1/build",
+  "command": "D:/software/mingw64/bin/g++.exe   -g -o CMakeFiles/demo1.dir/src/test02.cpp.obj -c D:/code/c++_project/demo1/src/test02.cpp",
+  "file": "D:/code/c++_project/demo1/src/test02.cpp",
+  "output": "CMakeFiles/demo1.dir/src/test02.cpp.obj"
+}
+]
